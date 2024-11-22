@@ -1,2 +1,2 @@
 Logo not loaded
-page cant be deployed --working on it
+page can't be deployed --working on it
